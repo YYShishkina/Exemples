@@ -1,0 +1,15 @@
+/Users/viktorshishkin/Documents/Учеба/Программирование/C#/Examples/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.csproj.AssemblyReference.cache
+/Users/viktorshishkin/Documents/Учеба/Программирование/C#/Examples/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viktorshishkin/Documents/Учеба/Программирование/C#/Examples/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.AssemblyInfoInputs.cache
+/Users/viktorshishkin/Documents/Учеба/Программирование/C#/Examples/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.AssemblyInfo.cs
+/Users/viktorshishkin/Documents/Учеба/Программирование/C#/Examples/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.csproj.CoreCompileInputs.cache
+/Users/viktorshishkin/Documents/Учеба/Программирование/C#/Examples/Example001_Hello_Console/bin/Debug/net6.0/Example001_Hello_Console
+/Users/viktorshishkin/Documents/Учеба/Программирование/C#/Examples/Example001_Hello_Console/bin/Debug/net6.0/Example001_Hello_Console.deps.json
+/Users/viktorshishkin/Documents/Учеба/Программирование/C#/Examples/Example001_Hello_Console/bin/Debug/net6.0/Example001_Hello_Console.runtimeconfig.json
+/Users/viktorshishkin/Documents/Учеба/Программирование/C#/Examples/Example001_Hello_Console/bin/Debug/net6.0/Example001_Hello_Console.dll
+/Users/viktorshishkin/Documents/Учеба/Программирование/C#/Examples/Example001_Hello_Console/bin/Debug/net6.0/Example001_Hello_Console.pdb
+/Users/viktorshishkin/Documents/Учеба/Программирование/C#/Examples/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.dll
+/Users/viktorshishkin/Documents/Учеба/Программирование/C#/Examples/Example001_Hello_Console/obj/Debug/net6.0/refint/Example001_Hello_Console.dll
+/Users/viktorshishkin/Documents/Учеба/Программирование/C#/Examples/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.pdb
+/Users/viktorshishkin/Documents/Учеба/Программирование/C#/Examples/Example001_Hello_Console/obj/Debug/net6.0/Example001_Hello_Console.genruntimeconfig.cache
+/Users/viktorshishkin/Documents/Учеба/Программирование/C#/Examples/Example001_Hello_Console/obj/Debug/net6.0/ref/Example001_Hello_Console.dll
